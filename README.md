@@ -1,6 +1,6 @@
 # Version Control Terminologies
 
-Here's an explanation of the version control terms shown in the screenshot:
+Here's an explanation of the version control terms :
 
 1. **Repository (Repo)**:
     
