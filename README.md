@@ -51,6 +51,7 @@ Here's the matching of VCS terminologies with their definitions, along with a br
 	2-git config --global user.email<your userEmail>
 	3-ssh-kyegen -t ed25519 -C Comment
 	4-add kye to githup
+ 	5-ssh -T git@github.com
 ---
 
 # initialize project with githup
