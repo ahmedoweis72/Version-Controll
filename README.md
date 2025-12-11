@@ -49,7 +49,7 @@ Here's the matching of VCS terminologies with their definitions, along with a br
 
 	1-git config --global user.name<GitHup userName>
 	2-git config --global user.email<your userEmail>
-	3-ssh-kyegen -t ed25519 -C Comment
+	3-ssh-keygen -t ed25519 -C "Comment"
 	4-add kye to githup
  	5-ssh -T git@github.com
 ---
